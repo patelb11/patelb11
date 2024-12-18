@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhavya Patel  
 
-<!--
-**patelb11/patelb11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**:  
+- Bachelor’s in Computer Engineering, Purdue University  
+- Currently pursuing a Master’s in Computer Engineering, Purdue University  
 
-Here are some ideas to get you started:
+💡 **Interests**:  
+- **Computer Vision**, **Machine Learning**, **Computer Architecture**  
+- Robotics and Autonomous Vehicles  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Contact Me**:  
+- **Email**: bhavya6357@gmail.com  
+- **LinkedIn**: [linkedin.com/in/bhavya-patel-b0041721a](https://www.linkedin.com/in/bhavya-patel-b0041721a)  
+
+---
+
+Thanks for visiting my profile!
